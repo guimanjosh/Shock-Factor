@@ -1,0 +1,246 @@
+https://catalog.ucsd.edu/courses/AIP.html
+Courses Scraped: 5
+Descriptions Scraped: 4
+https://catalog.ucsd.edu/courses/AASM.html
+Courses Scraped: 6
+Descriptions Scraped: 6
+https://catalog.ucsd.edu/courses/AWP.html
+Courses Scraped: 10
+Descriptions Scraped: 10
+https://catalog.ucsd.edu/courses/ANTH.html
+Courses Scraped: 294
+Descriptions Scraped: 293
+https://catalog.ucsd.edu/courses/AAPI.html
+Courses Scraped: 1
+Descriptions Scraped: 1
+https://catalog.ucsd.edu/courses/AUDL.html
+Courses Scraped: 16
+Descriptions Scraped: 16
+https://catalog.ucsd.edu/courses/BIOI.html
+Courses Scraped: 9
+Descriptions Scraped: 9
+https://catalog.ucsd.edu/courses/BIOL.html
+Courses Scraped: 242
+Descriptions Scraped: 241
+https://catalog.ucsd.edu/courses/BIOM.html
+Courses Scraped: 46
+Descriptions Scraped: 44
+https://catalog.ucsd.edu/courses/CHEM.html
+Courses Scraped: 162
+Descriptions Scraped: 162
+https://catalog.ucsd.edu/courses/CLS.html
+Courses Scraped: 1
+Descriptions Scraped: 1
+https://catalog.ucsd.edu/courses/CHIN.html
+Courses Scraped: 45
+Descriptions Scraped: 45
+https://catalog.ucsd.edu/courses/CLAS.html
+Courses Scraped: 18
+Descriptions Scraped: 12
+https://catalog.ucsd.edu/courses/CCS.html
+Courses Scraped: 5
+Descriptions Scraped: 5
+https://catalog.ucsd.edu/courses/CSP.html
+Courses Scraped: 5
+Descriptions Scraped: 5
+https://catalog.ucsd.edu/courses/CLIN.html
+Courses Scraped: 5
+Descriptions Scraped: 5
+https://catalog.ucsd.edu/courses/CLRE.html
+Courses Scraped: 34
+Descriptions Scraped: 34
+https://catalog.ucsd.edu/courses/COGS.html
+Courses Scraped: 126
+Descriptions Scraped: 122
+https://catalog.ucsd.edu/courses/COMM.html
+Courses Scraped: 197
+Descriptions Scraped: 212
+https://catalog.ucsd.edu/courses/css.html
+Courses Scraped: 9
+Descriptions Scraped: 9
+https://catalog.ucsd.edu/courses/CGS.html
+Courses Scraped: 43
+Descriptions Scraped: 44
+https://catalog.ucsd.edu/courses/CAT.html
+Courses Scraped: 20
+Descriptions Scraped: 20
+https://catalog.ucsd.edu/courses/DSC.html
+Courses Scraped: 76
+Descriptions Scraped: 75
+https://catalog.ucsd.edu/courses/DSGN.html
+Courses Scraped: 15
+Descriptions Scraped: 15
+https://catalog.ucsd.edu/courses/DOC.html
+Courses Scraped: 4
+Descriptions Scraped: 4
+https://catalog.ucsd.edu/courses/ECON.html
+Courses Scraped: 158
+Descriptions Scraped: 158
+https://catalog.ucsd.edu/courses/EDS.html
+Courses Scraped: 174
+Descriptions Scraped: 174
+https://catalog.ucsd.edu/courses/ERC.html
+Courses Scraped: 10
+Descriptions Scraped: 9
+https://catalog.ucsd.edu/courses/ENG.html
+Courses Scraped: 14
+Descriptions Scraped: 14
+https://catalog.ucsd.edu/courses/BENG.html
+Courses Scraped: 127
+Descriptions Scraped: 127
+https://catalog.ucsd.edu/courses/CSE.html
+Courses Scraped: 173
+Descriptions Scraped: 173
+https://catalog.ucsd.edu/courses/ECE.html
+Courses Scraped: 200
+Descriptions Scraped: 200
+https://catalog.ucsd.edu/courses/MAS.html
+Courses Scraped: 28
+Descriptions Scraped: 28
+https://catalog.ucsd.edu/courses/MAE.html
+Courses Scraped: 180
+Descriptions Scraped: 179
+https://catalog.ucsd.edu/courses/NANO.html
+Courses Scraped: 134
+Descriptions Scraped: 126
+https://catalog.ucsd.edu/courses/SE.html
+Courses Scraped: 127
+Descriptions Scraped: 125
+https://catalog.ucsd.edu/courses/ENVR.html
+Courses Scraped: 16
+Descriptions Scraped: 15
+https://catalog.ucsd.edu/courses/ESYS.html
+Courses Scraped: 10
+Descriptions Scraped: 10
+https://catalog.ucsd.edu/courses/ETHN.html
+Courses Scraped: 154
+Descriptions Scraped: 152
+https://catalog.ucsd.edu/courses/FILM.html
+Courses Scraped: 1
+Descriptions Scraped: 1
+https://catalog.ucsd.edu/courses/GLBH.html
+Courses Scraped: 58
+Descriptions Scraped: 58
+https://catalog.ucsd.edu/courses/GPS.html
+Courses Scraped: 181
+Descriptions Scraped: 182
+https://catalog.ucsd.edu/courses/GSS.html
+Courses Scraped: 7
+Descriptions Scraped: 7
+https://catalog.ucsd.edu/courses/LHCO.html
+Courses Scraped: 15
+Descriptions Scraped: 16
+https://catalog.ucsd.edu/courses/HIST.html
+Courses Scraped: 455
+Descriptions Scraped: 453
+https://catalog.ucsd.edu/courses/HDS.html
+Courses Scraped: 22
+Descriptions Scraped: 21
+https://catalog.ucsd.edu/courses/HMNR.html
+Courses Scraped: 2
+Descriptions Scraped: 2
+https://catalog.ucsd.edu/courses/HUM.html
+Courses Scraped: 11
+Descriptions Scraped: 12
+https://catalog.ucsd.edu/courses/INTL.html
+Courses Scraped: 7
+Descriptions Scraped: 7
+https://catalog.ucsd.edu/courses/JAPN.html
+Courses Scraped: 18
+Descriptions Scraped: 16
+https://catalog.ucsd.edu/courses/JWSP.html
+Courses Scraped: 16
+Descriptions Scraped: 16
+https://catalog.ucsd.edu/courses/LATI.html
+Courses Scraped: 15
+Descriptions Scraped: 15
+https://catalog.ucsd.edu/courses/LAWS.html
+Courses Scraped: 2
+Descriptions Scraped: 2
+https://catalog.ucsd.edu/courses/LING.html
+Courses Scraped: 232
+Descriptions Scraped: 232
+https://catalog.ucsd.edu/courses/LIT.html
+Courses Scraped: 394
+Descriptions Scraped: 386
+https://catalog.ucsd.edu/courses/MMW.html
+Courses Scraped: 7
+Descriptions Scraped: 7
+https://catalog.ucsd.edu/courses/MGT.html
+Courses Scraped: 247
+Descriptions Scraped: 234
+https://catalog.ucsd.edu/courses/MBC.html
+Courses Scraped: 6
+Descriptions Scraped: 6
+https://catalog.ucsd.edu/courses/MATS.html
+Courses Scraped: 23
+Descriptions Scraped: 22
+https://catalog.ucsd.edu/courses/MATH.html
+Courses Scraped: 223
+Descriptions Scraped: 223
+https://catalog.ucsd.edu/courses/MSED.html
+Courses Scraped: 9
+Descriptions Scraped: 9
+https://catalog.ucsd.edu/courses/MCWP.html
+Courses Scraped: 6
+Descriptions Scraped: 6
+https://catalog.ucsd.edu/courses/MUS.html
+Courses Scraped: 134
+Descriptions Scraped: 144
+https://catalog.ucsd.edu/courses/NEU.html
+Courses Scraped: 26
+Descriptions Scraped: 26
+https://catalog.ucsd.edu/courses/PHIL.html
+Courses Scraped: 129
+Descriptions Scraped: 124
+https://catalog.ucsd.edu/courses/PHYS.html
+Courses Scraped: 165
+Descriptions Scraped: 153
+https://catalog.ucsd.edu/courses/POLI.html
+Courses Scraped: 297
+Descriptions Scraped: 297
+https://catalog.ucsd.edu/courses/PSYC.html
+Courses Scraped: 185
+Descriptions Scraped: 180
+https://catalog.ucsd.edu/courses/FMPH.html
+Courses Scraped: 93
+Descriptions Scraped: 94
+https://catalog.ucsd.edu/courses/RELI.html
+Courses Scraped: 36
+Descriptions Scraped: 35
+https://catalog.ucsd.edu/courses/REV.html
+Courses Scraped: 9
+Descriptions Scraped: 9
+https://catalog.ucsd.edu/courses/SCIS.html
+Courses Scraped: 24
+Descriptions Scraped: 24
+https://catalog.ucsd.edu/courses/SIO.html
+Courses Scraped: 270
+Descriptions Scraped: 268
+https://catalog.ucsd.edu/courses/SEV.html
+Courses Scraped: 3
+Descriptions Scraped: 3
+https://catalog.ucsd.edu/courses/SXTH.html
+Courses Scraped: 3
+Descriptions Scraped: 3
+https://catalog.ucsd.edu/courses/SOC.html
+Courses Scraped: 195
+Descriptions Scraped: 196
+https://catalog.ucsd.edu/courses/SYN.html
+Courses Scraped: 7
+Descriptions Scraped: 7
+https://catalog.ucsd.edu/courses/THEA.html
+Courses Scraped: 217
+Descriptions Scraped: 217
+https://catalog.ucsd.edu/courses/TMC.html
+Courses Scraped: 8
+Descriptions Scraped: 8
+https://catalog.ucsd.edu/courses/USP.html
+Courses Scraped: 109
+Descriptions Scraped: 106
+https://catalog.ucsd.edu/courses/VIS.html
+Courses Scraped: 247
+Descriptions Scraped: 247
+https://catalog.ucsd.edu/courses/WARR.html
+Courses Scraped: 9
+Descriptions Scraped: 9
